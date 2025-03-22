@@ -1,2 +1,2 @@
 # genzi_zimba
-AI Sutainability product from genzi.ai
+AI Sustainability product from genzi.ai
